@@ -1,0 +1,15 @@
+# Notation for Live coding 
+- in order to play e.g. tidal cycles live with pre-written material or record a written track it might be helpful to have some notation of the coarse temporal sequence (apart from experimentation)
+- this is an experiment on some notation
+
+## requirements
+
+## elements
+
+## example
+
+[chanel/orbit | I/O  | params | value/comment]
+
+1 | + | gain | 0.4 >> 0.7 fade in
+ ##	2 |  +   | fast 2 | not used
+ ->	3 |  =   | gain   | 0.4 >> out
